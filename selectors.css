@@ -1,0 +1,26 @@
+.container {
+    width: 1400px;
+    margin: auto;
+}
+
+.navbar {
+    display: flex;
+}
+
+.box {
+    border: 2px solid white;    
+}
+
+.box0 {
+    padding-left: 150px;
+    font-weight: bold;
+    font-size: 18px;    
+}
+
+.box1 {
+    padding-left: 50px;
+}
+
+.box2 {
+    font-weight: bold;    
+}
